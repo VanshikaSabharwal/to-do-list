@@ -174,8 +174,9 @@ body {
     height: 96vh;
 }
 
-        .box .add button {
-            left: 50%;
+        .box .add button {  
+              left: 79%;
             transform: translateY(-50%);
+            top: 0rem;
         }
     }
