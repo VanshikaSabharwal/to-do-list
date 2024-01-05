@@ -13,14 +13,14 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #171717;
+    background: #7c5c88;
 }
 
 .container .box {
     position: relative;
     width: 450px;
     height: 550px;
-    background: #171717;
+    background: #b8adad;
     padding: 30px 50px;
     border-radius: 30px;
     box-shadow: 25px 25px 75px rgba(0, 0, 0, 0.25),
@@ -34,7 +34,7 @@ body {
     width: 100%;
     font-weight: 600;
     text-align: center;
-    color: #fff;
+    color: #534f4f;
     font-size: 1.75em;
     margin-bottom: 10px;
 }
@@ -90,7 +90,7 @@ body {
     align-items: center;
     box-shadow:5px 5px 7px rgba(0, 0, 0, 0.25), inset 2px 2px 5px rgba(0, 0, 0, 0.5),
     inset -3px -3px 5px rgba(0, 0, 0, 0.5);
-    background: aqua;
+    background: #cbf1f1;
     margin: 15px 0;
     padding: 10px 10px 10px 45px;
     min-height: 45px;
@@ -106,7 +106,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: red;
+    background: black;
     border-radius: 50%;
     box-shadow:5px 5px 7px rgba(0, 0, 0, 0.25), inset 2px 2px 5px rgba(255, 255, 255, 0.25),
     inset -3px -3px 5px rgba(0, 0, 0, 0.5);
@@ -154,7 +154,7 @@ body {
 #list{
     position: relative;
     margin-top: 20px;
-    height: 350px;
+    height: 70%;
     overflow-y: auto;
     padding-right: 10px;
 }
@@ -174,12 +174,12 @@ body {
     }
 .container .box {
     width: 80vw;
-    height: 96vh;
+    height: 80vh;
 }
 
         .box .add button {  
               left: 79%;
             transform: translateY(-50%);
-            top: 0rem;
+            top: 1rem;
         }
     }
